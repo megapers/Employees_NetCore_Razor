@@ -1,0 +1,12 @@
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Services.deps.json
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Services.dll
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Services.pdb
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Model.dll
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Model.pdb
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.csprojAssemblyReference.cache
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.AssemblyInfoInputs.cache
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.AssemblyInfo.cs
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.csproj.CoreCompileInputs.cache
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.csproj.CopyComplete
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.dll
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.pdb

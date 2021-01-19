@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0B7AiB226QkhabiK3uleTEKzXQ6gnBA+HLpxZJMf/+9AJh/lKjMj6Tf/JEWiI3wfBN3f/jSsTjjGm6a9b1LXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\megap\\Desktop\\Everything\\Job Search\\PrevueHR\\RazorPagesApp\\RazorPagesTutorial.Services\\RazorPagesTutorial.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\megap\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

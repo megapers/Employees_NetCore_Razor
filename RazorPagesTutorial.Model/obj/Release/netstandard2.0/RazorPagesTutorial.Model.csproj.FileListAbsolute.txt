@@ -1,0 +1,9 @@
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\bin\Release\netstandard2.0\RazorPagesTutorial.Model.deps.json
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\bin\Release\netstandard2.0\RazorPagesTutorial.Model.dll
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\bin\Release\netstandard2.0\RazorPagesTutorial.Model.pdb
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\obj\Release\netstandard2.0\RazorPagesTutorial.Model.csprojAssemblyReference.cache
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\obj\Release\netstandard2.0\RazorPagesTutorial.Model.AssemblyInfoInputs.cache
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\obj\Release\netstandard2.0\RazorPagesTutorial.Model.AssemblyInfo.cs
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\obj\Release\netstandard2.0\RazorPagesTutorial.Model.csproj.CoreCompileInputs.cache
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\obj\Release\netstandard2.0\RazorPagesTutorial.Model.dll
+C:\Users\megap\Desktop\Everything\Job Search\PrevueHR\RazorPagesApp\RazorPagesTutorial.Model\obj\Release\netstandard2.0\RazorPagesTutorial.Model.pdb
